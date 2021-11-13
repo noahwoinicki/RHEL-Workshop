@@ -1,0 +1,8 @@
+RHEL Workshop Links: 
+https://student2013-docs.rhws.io/
+https://student2013.rhws.io/
+https://student2013-code.rhws.io/
+
+Git Workshop Link: 
+https://redhat-adsa.github.io/HowWeEnable/workshops/git_101/into_to_Git_slides.pdf
+
